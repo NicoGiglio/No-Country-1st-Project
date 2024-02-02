@@ -1,9 +1,11 @@
 # c14-48-n-csharp-QA
-# Proyecto para NO Country - STLC en WebApp de ejemplo - Cohorte-14-2023
+# No Country Bootcamp First Project - STLC in TODO WebApp - Cohorte-14-2023
 
-# El proyecto aborda una simulación de actividades de QA Manual sobre aplicación existente, a modo de ejemplificar el trabajo en un entorno real de trabajo.
+# This project takes an approach of Manual QA Activities (including API Testing), in a context of an MVP deliver in a Scrum Methodology (5 weeks project).
+# We interact with a TODO app with Public APIs to focus in Black Box Testing, and API Testing using Postman for automated collections, and Newman for HTML Report. 
+# We worked with Trello to organize every scheduled testing activity in a Kanban-style board. 
 
-# Integrantes
+# Team:
 # Nicolas Giglio
 # Maira Mora
-# Octubre - Noviembre 2023
+# October - November 2023
